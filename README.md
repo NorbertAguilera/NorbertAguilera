@@ -2,8 +2,19 @@
 
 ### 🚀 Passionate Student from Universitat de Lleida
 
-I'm a developer who loves building digital solutions and learning new technologies every day.
+### 👨‍💻 Fullstack Student and Computer Science Student
 
+Computer Science student with a strong focus on Web Development and App Design. Highly motivated to build scalable applications and explore new technologies, always seeking to contribute to impactful projects while continuously expanding my technical expertise.
+
+***
+
+### 🚀 About Me
+
+-   🌱 I’m currently diving deep into **Next.js**, specifically testing **NPM (Node Package Manager)**.
+-   💡 Looking for my first professional experience as a **Junior Backend Developer / Web Dev Intern]** to apply my skills in real-world, challenging projects.
+-   📫 How to reach me: [naguileralavalira@gmail.com](mailto:naguileralavalira@gmail.com).
+
+***
 ---
 ### 🛠️ My Tech Stack
 
